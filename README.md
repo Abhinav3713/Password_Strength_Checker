@@ -28,5 +28,5 @@ A simple desktop application built with Python and Tkinter to evaluate the stren
 
 2\.  Open a terminal in the project directory.
 
-3\.  Run the script: `python passwd\_checker.py`
+3\.  Run the script: `python passwd_checker.py`
 
